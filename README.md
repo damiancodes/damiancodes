@@ -16,7 +16,8 @@ Socials
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)](https://github.com/[damiancodes])
 
 GITHUB STATS
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=damiancodes&bg_color=0d1117&color=ffcc00&line=ff8a00&point=e52e71&area=true&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=damiancodes&theme=radical&border_radius=15&date_format=M%20j%5B%2C%20Y%5D)
+
 
 
 

@@ -35,6 +35,9 @@ GITHUB STATS
 </p>
 
 
+![GitHub Activity](https://img.shields.io/badge/GitHub-Active%20Contributor-brightgreen?style=for-the-badge)
+
+
 
 
 

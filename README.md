@@ -16,22 +16,15 @@ Top languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damiancodes&layout=compact)
 
 
-GITHUB STATS
-
-![GitHub Streak](https://streak-stats.demolab.com?user=damiancodes&theme=radical&border_radius=15&date_format=M%20j%5B%2C%20Y%5D)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=damiancodes&bg_color=0d1117&color=ffcc00&line=ff8a00&point=e52e71&area=true&hide_border=true)
-
-
 ## 📊 GitHub Stats  
 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=damiancodes&show_icons=true&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api?username=damiancodes&show_icons=true&theme=light" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damiancodes&layout=compact&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damiancodes&layout=compact&theme=light" />
     </td>
   </tr>
 </table>

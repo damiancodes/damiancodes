@@ -12,10 +12,8 @@
 
 
 
-Socials  
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)](https://github.com/[damiancodes])
-
-![Profile Views](https://komarev.com/ghpvc/?username=damiancodes&label=Profile%20Views&color=blue&style=plastic)
+Top languages 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damiancodes&layout=compact)
 
 
 GITHUB STATS
@@ -24,8 +22,20 @@ GITHUB STATS
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=damiancodes&bg_color=0d1117&color=ffcc00&line=ff8a00&point=e52e71&area=true&hide_border=true)
 
-Top Lnguages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damiancodes&layout=compact)
+
+## 📊 GitHub Stats  
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=damiancodes&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damiancodes&layout=compact&theme=radical" />
+    </td>
+  </tr>
+</table>
+
 
 
 

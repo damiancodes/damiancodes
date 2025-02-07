@@ -34,9 +34,6 @@ GITHUB STATS
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damiancodes&layout=compact&theme=light" height="180" />
 </p>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=damiancodes&theme=light)
-
-
 
 
 

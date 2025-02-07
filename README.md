@@ -12,25 +12,16 @@
 
 
 
-Top languages 
-## 📊 Top Languages  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damiancodes&layout=compact" />
-</p>
-
-
-
 
 GITHUB STATS
 
-## 🔥 GitHub Streak  
+##  GitHub Streak  
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=damiancodes&theme=default&border_radius=15&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
-## 📈 GitHub Activity Graph  
+##  GitHub Activity Graph  
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=damiancodes&bg_color=ffffff&color=000000&line=007acc&point=ff5733&area=true&hide_border=true" />
@@ -38,18 +29,12 @@ GITHUB STATS
 
 
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=damiancodes&show_icons=true&theme=light" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damiancodes&layout=compact&theme=light" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=damiancodes&show_icons=true&theme=light" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damiancodes&layout=compact&theme=light" height="150" />
+</p>
 
 
 

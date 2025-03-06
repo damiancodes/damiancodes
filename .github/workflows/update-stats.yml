@@ -1,0 +1,30 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Runs every 6 hours
+  push:
+    branches:
+      - main  # Change this if your default branch is different
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Update GitHub Stats
+        run: |
+          curl -o README.md "https://raw.githubusercontent.com/damiancodes/damiancodes/main/README.md"
+          sed -i "s|https://streak-stats.demolab.com.*|https://streak-stats.demolab.com?user=damiancodes\&theme=default\&border_radius=15\&date_format=M%20%5B%2C%20Y%5D|" README.md
+          sed -i "s|https://github-readme-activity-graph.vercel.app.*|https://github-readme-activity-graph.vercel.app/graph?username=damiancodes\&bg_color=ffffff\&color=007acc\&point=ff5733\&area=true\&hide_border=true|" README.md
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git commit -m "Auto-update GitHub stats"
+          git push

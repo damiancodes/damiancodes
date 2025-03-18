@@ -38,7 +38,7 @@ GITHUB STATS
 ## Commit badges
 ![Commits Badge](https://img.shields.io/github/commit-activity/m/damianwcodes)
 
-##Top languanges
+## Top languanges
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damianwcodes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

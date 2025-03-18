@@ -35,21 +35,5 @@ GITHUB STATS
 </p>
 
 
-## Commit badges
-![Commits Badge](https://img.shields.io/github/commit-activity/m/damianwcodes)
-
-## Top languanges
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=damiancodes&layout=compact&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-## GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=damiancodes&show_icons=true&theme=light&count_private=true&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damiancodes&layout=compact&theme=light&hide_border=true&langs_count=6" height="180" />
-</p>
-
 
 

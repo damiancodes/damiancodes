@@ -37,23 +37,6 @@
   
 </div>
 
-## 🗂️ Recent Projects
-
-<div align="center">
-  <!-- Project pins in a horizontal row with enhanced styling -->
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
-    <a href="https://github.com/damiancodes/your-kotlin-project">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=damiancodes&repo=your-kotlin-project&theme=light&hide_border=true&icon_color=7F52FF&show_owner=true" />
-    </a>
-    <a href="https://github.com/damiancodes/your-javascript-project">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=damiancodes&repo=your-javascript-project&theme=light&hide_border=true&icon_color=F7DF1E&show_owner=true" />
-    </a>
-  </div>
-</div>
-
-<!-- Add this section to force GitHub to count your language stats accurately -->
-## 📊 Language Contributions Breakdown
-`
 
 <!-- Enhanced footer with profile views and social links -->
 <div align="center">

@@ -15,27 +15,6 @@
 
 </div>
 
-## 🔥 Recent Activity & Skills
-
-<!-- Highlighting Kotlin and JavaScript work specifically -->
-<div align="center">
-  <!-- More conspicuous badges with larger icons -->
-  <p align="center" style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
-    <a href="#">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="60" height="60"/>
-      <br/>
-      <span style="font-size: 18px; font-weight: bold;">Primary Focus</span>
-    </a>
-    <a href="#">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
-      <br/>
-      <span style="font-size: 18px; font-weight: bold;">Also Working With</span>
-    </a>
-  </p>
-</div>
-
-</div>
-
 
 
 ## 📈 Contribution Overview

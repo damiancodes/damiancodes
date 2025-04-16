@@ -64,8 +64,8 @@
   
   <!-- Optional: Add social media links with SVG icons -->
   <p align="center" style="display: flex; justify-content: center; gap: 15px; margin-top: 20px;">
-    <a href="https://twitter.com/yourusername"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitter.svg" alt="Twitter" width="30" height="30"/></a>
-    <a href="https://linkedin.com/in/yourusername"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/></a>
+    <a href="https://twitter.com/damianbwire8"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitter.svg" alt="Twitter" width="30" height="30"/></a>
+    <a href="https://linkedin.com/in/Damian wabwire"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/></a>
     <a href="https://dev.to/yourusername"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/devdotto.svg" alt="Dev.to" width="30" height="30"/></a>
   </p>
 </div>

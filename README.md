@@ -34,28 +34,9 @@
   </p>
 </div>
 
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-  
-  <!-- All cards arranged horizontally in rows -->
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-    <!-- GitHub Stats and Language Stats in first row -->
-    <img src="https://github-readme-stats.vercel.app/api?username=damiancodes&show_icons=true&theme=light&hide_border=true" height="170" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damiancodes&layout=compact&theme=light&langs_count=8&hide=html,css&hide_border=true" height="170" />
-  </div>
-  
-  <!-- GitHub Streak in second row -->
-  <div style="margin-top: 10px;">
-    <img src="https://streak-stats.demolab.com?user=damiancodes&theme=default&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" width="700" />
-  </div>
-  
-  <!-- GitHub Activity Graph in third row -->
-  <div style="margin-top: 10px;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=damiancodes&bg_color=ffffff&color=000000&line=7F52FF&point=F7DF1E&area=true&hide_border=true" width="700" />
-  </div>
-
 </div>
+
+
 
 ## 📈 Contribution Overview
 

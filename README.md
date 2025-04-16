@@ -30,9 +30,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=damiancodes&theme=github" width="32%" />
 </div>
 
-<div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=damiancodes&theme=github" width="100%" />
-</div>
 
 
 <div align="center" style="margin: 20px 0;">

@@ -53,11 +53,7 @@
 
 <!-- Add this section to force GitHub to count your language stats accurately -->
 ## 📊 Language Contributions Breakdown
-```
-<!-- This section is to ensure GitHub counts your Kotlin and JavaScript work properly -->
-🔷 Kotlin: Recent focus on Android development and server-side applications
-🟨 JavaScript: Frontend work with React and backend with Node.js
-```
+`
 
 <!-- Enhanced footer with profile views and social links -->
 <div align="center">

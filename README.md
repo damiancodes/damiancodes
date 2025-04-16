@@ -2,14 +2,16 @@
 
 <div align="center">
   
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=black)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="50" height="50"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50"/></a>
+</p>
 
 </div>
 
@@ -17,45 +19,60 @@
 
 <!-- Highlighting Kotlin and JavaScript work specifically -->
 <div align="center">
-  <!-- This will make Kotlin and JavaScript more prominent -->
-  <img src="https://img.shields.io/badge/Primary_Focus-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Also_Working_With-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <!-- More conspicuous badges with larger icons -->
+  <p align="center" style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
+    <a href="#">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="60" height="60"/>
+      <br/>
+      <span style="font-size: 18px; font-weight: bold;">Primary Focus</span>
+    </a>
+    <a href="#">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+      <br/>
+      <span style="font-size: 18px; font-weight: bold;">Also Working With</span>
+    </a>
+  </p>
 </div>
 
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
   
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=damiancodes&show_icons=true&theme=light" height="180" />
+  <!-- All cards arranged horizontally in rows -->
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+    <!-- GitHub Stats and Language Stats in first row -->
+    <img src="https://github-readme-stats.vercel.app/api?username=damiancodes&show_icons=true&theme=light&hide_border=true" height="170" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damiancodes&layout=compact&theme=light&langs_count=8&hide=html,css&hide_border=true" height="170" />
+  </div>
   
-  <!-- Language Stats - Configured to show more languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damiancodes&layout=compact&theme=light&langs_count=8&hide=html,css" height="180" />
-
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=damiancodes&theme=default&border_radius=15&date_format=M%20j%5B%2C%20Y%5D" />
+  <!-- GitHub Streak in second row -->
+  <div style="margin-top: 10px;">
+    <img src="https://streak-stats.demolab.com?user=damiancodes&theme=default&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" width="700" />
+  </div>
   
-  <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=damiancodes&bg_color=ffffff&color=000000&line=007acc&point=ff5733&area=true&hide_border=true" />
+  <!-- GitHub Activity Graph in third row -->
+  <div style="margin-top: 10px;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=damiancodes&bg_color=ffffff&color=000000&line=7F52FF&point=F7DF1E&area=true&hide_border=true" width="700" />
+  </div>
 
 </div>
 
 ## 📈 Contribution Overview
 
-<!-- This is the compass-like feature you mentioned -->
+<!-- This is the enhanced compass-like feature you mentioned -->
 <div align="center">
   
-  ![Contribution Overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=damiancodes&theme=default)
-  
-  <!-- Additional compass-like metrics -->
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=damiancodes&theme=default" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=damiancodes&theme=default" />
+  <!-- Main contribution overview -->
+  <div style="margin-bottom: 10px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=damiancodes&theme=default" width="700" />
   </div>
   
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=damiancodes&theme=default" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=damiancodes&theme=default" />
+  <!-- Additional compass-like metrics in a single row -->
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 5px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=damiancodes&theme=default" width="345" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=damiancodes&theme=default" width="345" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=damiancodes&theme=default" width="345" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=damiancodes&theme=default" width="345" />
   </div>
   
 </div>
@@ -63,12 +80,15 @@
 ## 🗂️ Recent Projects
 
 <div align="center">
-  <a href="https://github.com/damiancodes/your-kotlin-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=damiancodes&repo=your-kotlin-project&theme=light" />
-  </a>
-  <a href="https://github.com/damiancodes/your-javascript-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=damiancodes&repo=your-javascript-project&theme=light" />
-  </a>
+  <!-- Project pins in a horizontal row with enhanced styling -->
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
+    <a href="https://github.com/damiancodes/your-kotlin-project">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=damiancodes&repo=your-kotlin-project&theme=light&hide_border=true&icon_color=7F52FF&show_owner=true" />
+    </a>
+    <a href="https://github.com/damiancodes/your-javascript-project">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=damiancodes&repo=your-javascript-project&theme=light&hide_border=true&icon_color=F7DF1E&show_owner=true" />
+    </a>
+  </div>
 </div>
 
 <!-- Add this section to force GitHub to count your language stats accurately -->
@@ -79,7 +99,17 @@
 🟨 JavaScript: Frontend work with React and backend with Node.js
 ```
 
-<!-- Profile Views Counter -->
+<!-- Enhanced footer with profile views and social links -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=damiancodes&style=flat-square&color=blue" alt="Profile views"/>
+  <!-- Custom styled profile views counter -->
+  <p align="center" style="margin-top: 30px;">
+    <img src="https://komarev.com/ghpvc/?username=damiancodes&style=for-the-badge&color=7F52FF" alt="Profile views"/>
+  </p>
+  
+  <!-- Optional: Add social media links with SVG icons -->
+  <p align="center" style="display: flex; justify-content: center; gap: 15px; margin-top: 20px;">
+    <a href="https://twitter.com/yourusername"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitter.svg" alt="Twitter" width="30" height="30"/></a>
+    <a href="https://linkedin.com/in/yourusername"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/></a>
+    <a href="https://dev.to/yourusername"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/devdotto.svg" alt="Dev.to" width="30" height="30"/></a>
+  </p>
 </div>

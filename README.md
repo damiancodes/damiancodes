@@ -19,7 +19,6 @@
 
 ## 📊 GitHub Stats
 
-<!-- Full-width stats cards -->
 <div>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=damiancodes&theme=github" width="100%" />
 </div>

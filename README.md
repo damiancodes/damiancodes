@@ -1,54 +1,44 @@
-# **💻🚀🔧 Hi there, tech community! Let's save the world with our fingers! 👋**
+ # 💻🔧 Hi there, tech community! Let's save the world with our fingers! 👋
 
 <div align="center">
+
+## 🛠️ Tech Stack
   
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="50" height="50"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50"/></a>
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: space-evenly; gap: 25px; margin: 30px 0;">
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="60" height="60"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="60" height="60"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="60" height="60"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="60" height="60"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="60" height="60"/></a>
 </p>
 
 </div>
 
+## 📊 GitHub Stats
 
+<!-- Full-width stats cards -->
+<div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=damiancodes&theme=github" width="100%" />
+</div>
 
-## 📈 Contribution Overview
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px; margin: 20px 0;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=damiancodes&theme=github" width="34%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=damiancodes&theme=github" width="34%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=damiancodes&theme=github" width="32%" />
+</div>
 
-<!-- This is the enhanced compass-like feature you mentioned -->
-<div align="center">
-  
-  <!-- Main contribution overview -->
-  <div style="margin-bottom: 10px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=damiancodes&theme=default" width="700" />
-  </div>
-  
-  <!-- Additional compass-like metrics in a single row -->
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 5px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=damiancodes&theme=default" width="345" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=damiancodes&theme=default" width="345" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=damiancodes&theme=default" width="345" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=damiancodes&theme=default" width="345" />
-  </div>
-  
+<div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=damiancodes&theme=github" width="100%" />
 </div>
 
 
-<!-- Enhanced footer with profile views and social links -->
-<div align="center">
-  <!-- Custom styled profile views counter -->
-  <p align="center" style="margin-top: 30px;">
-    <img src="https://komarev.com/ghpvc/?username=damiancodes&style=for-the-badge&color=7F52FF" alt="Profile views"/>
+<div align="center" style="margin: 20px 0;">
+  <!-- Profile views with better styling -->
+  <p style="margin-bottom: 20px;">
+    <img src="https://komarev.com/ghpvc/?username=damiancodes&label=PROFILE+VIEWS&style=flat-square&color=blueviolet" alt="Profile views"/>
   </p>
   
-  <!-- Optional: Add social media links with SVG icons -->
-  <p align="center" style="display: flex; justify-content: center; gap: 15px; margin-top: 20px;">
-    <a href="https://twitter.com/damianbwire8"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitter.svg" alt="Twitter" width="30" height="30"/></a>
-    <a href="https://linkedin.com/in/Damian wabwire"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/></a>
-    <a href="https://dev.to/yourusername"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/devdotto.svg" alt="Dev.to" width="30" height="30"/></a>
-  </p>
-</div>
+ 

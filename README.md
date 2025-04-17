@@ -1,4 +1,4 @@
- # 💻 Hi there, tech community! Let's save the world with our fingers! 
+ # 💻 Hi tech community! Let's save the world with our fingers! 
 
 <div align="center">
 

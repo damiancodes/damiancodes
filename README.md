@@ -1,5 +1,17 @@
 # 💻 Hi tech community! Let's save the world with our fingers!
 
+
+<p align="center">
+   Full-Stack Developer |  AI Trainer|Researcher | 📊 Data Enthusiast | 🇰🇪 Based in Nairobi
+</p>
+
+---
+
+###  About Me
+
+-  I build scalable web systems using **Python**, **Django**, **React.js**, **Vue.js** and **FastAPI**
+- Exploring **Golang** and **Dart** to expand my backend and mobile dev stack
+
 <div align="center">
 
 ## 🛠️ Tech Stack
@@ -36,3 +48,15 @@
 </div>
 
 </div>
+
+
+
+###  Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damian-wabwire-85b929186/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:damianbwire88@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/damiancodes)
+
+---
+
+> _“Code is the language of the future  let’s build it wisely.”_

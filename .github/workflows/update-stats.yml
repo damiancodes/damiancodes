@@ -1,12 +1,12 @@
-name: Update GitHub Stats
+name: Update Profile README
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Runs every 6 hours
+    - cron: '0 6 * * *'  # Runs daily at 6 AM UTC
   push:
     branches:
       - main  
-  workflow_dispatch:  # Allows manual trigger
+  workflow_dispatch:  # Manual trigger
 
 permissions:
   contents: write
@@ -14,24 +14,68 @@ permissions:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    name: Update Profile with Latest Activity
+    
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
           
-      - name: Update README with GitHub Stats
-        uses: athul/waka-readme@master
+
+      # Update with recent GitHub activity
+      - name: Update Recent Activity
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: 'Update recent activity'
+          MAX_LINES: 8
+        continue-on-error: true
+        
+      # Update WakaTime coding stats (optional - requires WakaTime setup)
+      - name: Update WakaTime Stats
+        uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-        # Note: This step is optional and only works if you have Wakatime setup
-        # You can remove it if you don't use Wakatime
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_COMMIT: "True"
+          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_OS: "True"
+          SHOW_PROJECTS: "True"
+          SHOW_TIMEZONE: "True"
+          SHOW_EDITORS: "True"
+          SHOW_LANGUAGE_PER_REPO: "True"
         continue-on-error: true
+        
+      # Custom script to update dynamic content
+      - name: Update Dynamic Sections
+        run: |
+          # Get current date
+          current_date=$(date +'%B %d, %Y')
+          
+          # Update last updated section (if it exists in your README)
+          if grep -q "Last Updated:" README.md; then
+            sed -i "s/Last Updated: .*/Last Updated: $current_date/" README.md
+          fi
+          
+          # You can add more custom updates here
+          echo "Profile updated on $current_date"
         
       - name: Commit and Push Changes
         run: |
           git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add -A
-          git diff --staged --quiet || git commit -m "Auto-update GitHub stats [skip ci]"
-          git push
+          git config --local user.name "GitHub Action Bot"
+          
+          # Check if there are any changes
+          if [[ -n $(git status --porcelain) ]]; then
+            git add -A
+            git commit -m "🤖 Auto-update profile README - $(date +'%Y-%m-%d')"
+            git push
+            echo "✅ Profile updated successfully!"
+          else
+            echo "ℹ️ No changes to commit"
+          fi

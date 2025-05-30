@@ -1,4 +1,4 @@
-# 💻 Hi tech community! Let's save the world with our fingers!
+##  Hi tech community!Code is the language of the future !
 <p align="center">
    Full-Stack Developer |  AI Trainer|Researcher | 📊 Data Enthusiast | 🇰🇪 Based in Nairobi
 </p>

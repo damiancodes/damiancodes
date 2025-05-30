@@ -1,4 +1,4 @@
-# 💻 Hi tech community! Code is the language of the future!
+##  Hi tech community! Code is the language of the future!
 
 
 <p align="center">

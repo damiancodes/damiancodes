@@ -1,13 +1,13 @@
-##  Hi tech community! Code is the language of the future!
-
-
+# 💻 Hi tech community! Let's save the world with our fingers!
 <p align="center">
    Full-Stack Developer |  AI Trainer|Researcher | 📊 Data Enthusiast | 🇰🇪 Based in Nairobi
 </p>
-
 ---
+<div align="center">
 
-###  About Me
+### About Me
+
+</div>
 
 -  I build scalable web systems using **Python**, **Django**, **React.js**, **Vue.js** and **FastAPI**
 - Exploring **Golang** and **Dart** to expand my backend and mobile dev stack
@@ -49,8 +49,6 @@
 
 </div>
 
-
-
 <div align="center">
 
 ### Let's Connect
@@ -63,4 +61,18 @@
 
 ---
 
-> _“Code is the language of the future  let’s build it wisely.”_
+
+###  Recent GitHub Activity
+<!--START_SECTION:activity-->
+<!-- This section will be auto-populated by the workflow -->
+<!--END_SECTION:activity-->
+
+###  Weekly Development Breakdown
+<!--START_SECTION:waka-->
+<!-- This section will be auto-populated with coding stats -->
+<!--END_SECTION:waka-->
+
+---
+*Last Updated: Auto-updated by GitHub Actions*
+
+> *"Code is the language of the future  let's build it wisely."*

@@ -2,7 +2,7 @@
 <p align="center">
    Full-Stack Developer |  AI Trainer|Researcher | 📊 Data Enthusiast | 🇰🇪 Based in Nairobi
 </p>
----
+
 <div align="center">
 
 ### About Me

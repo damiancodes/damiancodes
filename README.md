@@ -9,7 +9,7 @@
 
 </div>
 
-- I build scalable web systems using **Python**, **Django**, **React.js**, **Vue.js** and **FastAPI**
+- I build scalable web systems using **Python**, **Django**, **React.js**, **Vue.js** and **FastAPI** **Docker**
  - Exploring **Golang** and **Dart** to expand my backend and mobile dev stack
 
 <div align="center">

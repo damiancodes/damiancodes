@@ -66,17 +66,7 @@
 
 ---
 
-## Recent GitHub Activity
-<!--START_SECTION:activity-->
-<!-- This section will be auto-populated by the workflow -->
-<!--END_SECTION:activity-->
 
-##  Weekly Development Breakdown
-<!--START_SECTION:waka-->
-<!-- This section will be auto-populated with coding stats -->
-<!--END_SECTION:waka-->
-
----
 
 <div align="center">
 

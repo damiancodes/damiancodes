@@ -1,31 +1,28 @@
-##  Hi tech community! Code is the language of the future!
+## Hi tech community! Code is the language of the future!
+
 <p align="center">
    Full-Stack Developer | AI Trainer | Researcher | 📊 Data Enthusiast | 🇰🇪 Based in Nairobi
 </p>
 
-<div align="center">
-
 ### About Me
-
-</div>
-
 - I build scalable web systems using **Python**, **Django**, **React.js**, **Vue.js**, **FastAPI**, and **Docker**
 - Exploring **Golang** and **Dart** to expand my backend and mobile dev stack
 
-<div align="center">
-
 ### 🛠️ Tech Stack
 
-<br/>
+<div align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=20232A" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
@@ -34,15 +31,15 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 | Most Used Languages | GitHub Stats |
 | :------------------: | :----------: |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damiancodes&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/damiancodes) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=damiancodes&show_icons=true&count_private=true&theme=gruvbox)](https://github.com/damiancodes) |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damiancodes&layout=compact&langs_count=8&hide=html,css,scss&include_all_commits=true)](https://github.com/damiancodes) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=damiancodes&show_icons=true&count_private=true)](https://github.com/damiancodes) |
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=damiancodes&theme=gruvbox)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=damiancodes)](https://git.io/streak-stats)
 
 </div>
 
@@ -62,7 +59,7 @@
 
 <div align="center">
 
-### Let's Connect
+###  Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damian-wabwire-85b929186/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:damianbwire88@gmail.com)
@@ -72,18 +69,22 @@
 
 ---
 
-###  Recent GitHub Activity
+# Recent GitHub Activity
 <!--START_SECTION:activity-->
 <!-- This section will be auto-populated by the workflow -->
 <!--END_SECTION:activity-->
 
-###  Weekly Development Breakdown
+# Weekly Development Breakdown
 <!--START_SECTION:waka-->
 <!-- This section will be auto-populated with coding stats -->
 <!--END_SECTION:waka-->
 
 ---
 
-*Last Updated: June 03, 2025
+<div align="center">
+
+*Last Updated: June 03, 2025*
 
 > *"Code is the language of the future — let's build it wisely."*
+
+</div>

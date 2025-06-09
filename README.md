@@ -32,8 +32,7 @@
 
 | Most Used Languages | GitHub Stats |
 | :------------------: | :----------: |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damiancodes&layout=compact&langs_count=8&hide=html,css,scss&count_private=false)](https://github.com/damiancodes) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=damiancodes&show_icons=true&count_private=true)](https://github.com/damiancodes) |
-
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damiancodes&layout=compact&langs_count=12&include_all_commits=true&count_private=true)](https://github.com/damiancodes) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=damiancodes&show_icons=true&count_private=true)](https://github.com/damiancodes) |
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=damiancodes)](https://git.io/streak-stats)

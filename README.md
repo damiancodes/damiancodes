@@ -1,4 +1,5 @@
 ## Hi tech community! Code is the language of the future!
+
 <p align="center">
    Full-Stack Developer | AI Trainer | Researcher | 📊 Data Enthusiast | 🇰🇪 Based in Nairobi
 </p>
@@ -8,7 +9,9 @@
 - Exploring **Golang** and **Dart** to expand my backend and mobile dev stack
 
 ###  Tech Stack
+
 <div align="center">
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -20,6 +23,7 @@
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+
 </div>
 
 ---
@@ -28,8 +32,7 @@
 
 | Most Used Languages | GitHub Stats |
 | :------------------: | :----------: |
-| [![Top Langs](https://my-github-stats-steel.vercel.app/api/top-langs/?username=damiancodes&layout=compact&langs_count=12&include_all_commits=true&count_private=true)](https://github.com/damiancodes) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=damiancodes&show_icons=true&count_private=true)](https://github.com/damiancodes) |
-
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damiancodes&layout=compact&langs_count=12&include_all_commits=true&count_private=true)](https://github.com/damiancodes) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=damiancodes&show_icons=true&count_private=true)](https://github.com/damiancodes) |
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=damiancodes)](https://git.io/streak-stats)
@@ -48,6 +51,8 @@
 -  [**CloudLink_Devs**](https://github.com/damiancodes/cloudlink-devs) — Dev agency platform with client portal, chatbot, estimator  
 -  [**BPO Management System**](https://github.com/damiancodes/bpo-system) — Shift tracking, employee scoring, manager dashboard
 
+
+
 <div align="center">
 
 ### Let's Connect
@@ -60,10 +65,15 @@
 
 ---
 
+
+
 <div align="center">
 
-*Last Updated: June 16, 2025
+*Last Updated: June 15, 2025
 
 > *"Code is the language of the future — let's build it wisely."*
 
 </div>
+
+
+

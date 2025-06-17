@@ -66,12 +66,11 @@
 ---
 
 
-
 <div align="center">
 
 *Last Updated: June 17, 2025
 
-> *"Code is the language of the future — let's build it wisely."*
+> *"Code is the language of the future  let's build it wisely."*
 
 </div>
 

@@ -5,7 +5,7 @@
 </p>
 
 ### About Me
-- I build scalable web systems using **Python**, **Django**, **React.js**, **Vue.js**, **FastAPI**
+- I build scalable web systems using **Python**, **Django**, **React.js**, **FastAPI**
 - Exploring **Golang** and **Dart** to expand my backend and mobile dev stack
 
 ###  Tech Stack

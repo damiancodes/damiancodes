@@ -6,7 +6,7 @@
 
 ### About Me
 - I build scalable web systems using **Python**, **Django**, **React.js**, **FastAPI**
-- Exploring **Golang** and **Dart** to expand my backend and mobile dev stack
+- Exploring **Golang** and **Dart** to expand my backend and mobile devstack
 
 ###  Tech Stack
 

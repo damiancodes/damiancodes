@@ -1,7 +1,7 @@
 ## Hi tech community! Code is the language of the future!
 
 <p align="center">
-   Full-Stack Developer | AI Trainer | Researcher |  Data Enthusiast |  Based in Nairobi
+   Full-Stack Developer | AI Trainer | Researcher |  Data Enthusiast |  Based in Nairobi.
 </p>
 
 ### About Me
@@ -52,7 +52,7 @@
 
 -  [**AjiraAI**](https://github.com/damiancodes/AjiraAI) — Intelligent job-matching AI system with microservices  
 -  [**CloudLink_Devs**](https://github.com/damiancodes/cloudlink-devs) — Dev agency platform with client portal, chatbot, estimator  
--  [**BPO Management System**](https://github.com/damiancodes/bpo-system) — Shift tracking, employee scoring, manager dashboard
+-  [**BPO Management System**](https://github.com/damiancodes/bpo-system) — Shift tracking, employee scoring, manager dashboard.
 
 
 

@@ -33,7 +33,8 @@
 
 | Most Used Languages | GitHub Stats |
 | :------------------: | :----------: |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damiancodes&layout=compact&langs_count=12&include_all_commits=true&count_private=true)](https://github.com/damiancodes) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=damiancodes&show_icons=true&count_private=true)](https://github.com/damiancodes) |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damiancodes&layout=compact&langs_count=12&include_all_commits=true&count_private=true)](https://github.com/damiancodes) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=damiancodes&show_icons=true&count_private=true&show=prs,issues,contribs)](https://github.com/damiancodes) |
+
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=damiancodes)](https://git.io/streak-stats)
@@ -43,6 +44,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=damiancodes&label=Profile+Views&color=6366f1&style=flat-square" alt="Profile views">
 </div>
+
 ---
 
 ###  Featured Projects

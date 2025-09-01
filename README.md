@@ -1,6 +1,6 @@
 ## Hi tech community! Code is the language of the future!
 <p align="center">
-   Full-Stack Developer | AI Trainer | Researcher |  Data Enthusiast |  Based in Nairobi.
+   Full-Stack Developer | AI Trainer | ML Crafter |  Data Enthusiast |  Based in Nairobi.
 </p>
 
 ### About Me

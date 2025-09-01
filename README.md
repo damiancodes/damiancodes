@@ -44,7 +44,7 @@
 
 ###  Featured Projects
 -  [**AjiraAI**](https://github.com/damiancodes/AjiraAI) — Intelligent job-matching AI system with microservices  
--  [**CloudLink_Devs**](https://github.com/damiancodes/cloudlink-devs) — Dev agency platform with client portal, chatbot, estimator  
+-  [**Kikao**](https://github.com/damiancodes/kikao) — A multi-platform job aggregator that scrapes job listings from LinkedIn, Glassdoor, Indeed, and other job sites. Built with Django, Selenium, and Docker for production deployment.  
 -  [**BPO Management System**](https://github.com/damiancodes/bpo-system) — Shift tracking, employee scoring, manager dashboard.
 
 <div align="center">
@@ -60,7 +60,7 @@
 
 <div align="center">
 
-*Last Updated: September 01, 2025
+*Last Updated: September 01, 2025*
 
 > *"Code is the language of the future — let's build it wisely."*
 

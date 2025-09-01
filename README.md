@@ -1,5 +1,4 @@
 ## Hi tech community! Code is the language of the future!
-
 <p align="center">
    Full-Stack Developer | AI Trainer | Researcher |  Data Enthusiast |  Based in Nairobi.
 </p>
@@ -9,9 +8,7 @@
 - Exploring **Golang** and **Dart** to expand my backend and mobile devstack
 
 ###  Tech Stack
-
 <div align="center">
-
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
@@ -23,22 +20,19 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-
-
 </div>
 
 ---
 
 ##  GitHub Stats
 
-| Most Used Languages | GitHub Stats |
-| :------------------: | :----------: |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damiancodes&layout=compact&langs_count=12&include_all_commits=true&count_private=true)](https://github.com/damiancodes) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=damiancodes&show_icons=true&count_private=true&show=prs,issues,contribs)](https://github.com/damiancodes) |
+| Most Used Languages | GitHub Activity |
+| :------------------: | :-------------: |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damiancodes&layout=compact&langs_count=12&include_all_commits=true&count_private=true)](https://github.com/damiancodes) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=damiancodes&show_icons=true&count_private=true&hide_rank=true)](https://github.com/damiancodes) |
 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=damiancodes)](https://git.io/streak-stats)
-
 
 </div>
 
@@ -49,17 +43,13 @@
 ---
 
 ###  Featured Projects
-
 -  [**AjiraAI**](https://github.com/damiancodes/AjiraAI) — Intelligent job-matching AI system with microservices  
 -  [**CloudLink_Devs**](https://github.com/damiancodes/cloudlink-devs) — Dev agency platform with client portal, chatbot, estimator  
 -  [**BPO Management System**](https://github.com/damiancodes/bpo-system) — Shift tracking, employee scoring, manager dashboard.
 
-
-
 <div align="center">
 
 ### Let's Connect
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damian-wabwire-85b929186/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:damianbwire88@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/damiancodes)
@@ -68,14 +58,10 @@
 
 ---
 
-
 <div align="center">
 
-*Last Updated: September 01, 2025
+*Last Updated: September 01, 2025*
 
-> *"Code is the language of the future  let's build it wisely."*
+> *"Code is the language of the future — let's build it wisely."*
 
 </div>
-
-
-

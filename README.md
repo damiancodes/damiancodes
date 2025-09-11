@@ -6,21 +6,30 @@
 ### About Me
 - I build scalable web systems using **Python**, **Django**, **React.js**, **FastAPI**
 - Exploring **Golang** and **Dart** to expand my backend and mobile devstack
-
 ###  Tech Stack
+
 <div align="center">
+
+####  Core Stack  
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=20232A" />
+
+#### Tools & Infra  
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=20232A" />
 <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+
 </div>
+
 
 ---
 

@@ -4,8 +4,8 @@
 </p>
 
 ### About Me
-- I build scalable web systems using **Python**, **Django**, **React.js**, **FastAPI**
-- Exploring **Golang** and **Dart** to expand my backend and mobile devstack
+- I build scalable web systems using **Python**, **Django**, **React.js**,  **FastAPI**,  **Typescript**, **Nextjs**
+- Exploring **Dart** to expand my mobile devstack
 ###  Tech Stack
 
 <div align="center">

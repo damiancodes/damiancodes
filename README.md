@@ -31,7 +31,6 @@
 </div>
 
 ---
-
 ##  GitHub Stats
 
 | Most Used Languages | GitHub Activity |

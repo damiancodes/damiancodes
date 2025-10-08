@@ -1,16 +1,25 @@
-## Hi tech community! Code is the language of the future!
+## Hi Tech Community!  
+### *Code is the language of the future.*
+
 <p align="center">
-   Full-Stack Developer | AI Trainer | ML Crafter |  Data Enthusiast |  Based in Nairobi.
+  <b>Full-Stack Developer | AI Trainer | ML Crafter | Data Enthusiast | Based in Nairobi</b>
 </p>
 
-### About Me
-- I build scalable web systems using **Python**, **Django**, **React.js**,  **FastAPI**,  **Typescript**, **Nextjs**
-- Exploring **Dart** to expand my mobile devstack
-###  Tech Stack
+---
+
+<h3 align="center">About Me</h3>
+
+- I build scalable web systems using **Python**, **Django**, **React.js**, **FastAPI**, **TypeScript**, and **Next.js**  
+- Currently exploring **Dart & Flutter** to expand my mobile dev stack  
+- Passionate about **AI integration**, **data-driven design**, and **clean architecture**  
+
+---
+
+<h3 align="center">Tech Stack</h3>
 
 <div align="center">
 
-####  Core Stack  
+#### Core Stack  
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -31,37 +40,49 @@
 </div>
 
 ---
-##  GitHub Stats
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=damiancodes)](https://git.io/streak-stats)
-
-</div>
+<h3 align="center">GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=damiancodes&label=Profile+Views&color=6366f1&style=flat-square" alt="Profile views">
+
+<!-- GitHub Streak (White Theme, No Dividers) -->
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=damiancodes&theme=default&hide_border=true&background=FFFFFF" alt="GitHub Streak" />
+</a>
+
+<!-- Top Languages (White Theme, 10 Languages) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damiancodes&layout=compact&theme=default&langs_count=10&hide_border=true&bg_color=FFFFFF" alt="Top Languages" />
+
+<br>
+<img src="https://komarev.com/ghpvc/?username=damiancodes&label=Profile+Views&color=6366f1&style=flat-square" alt="Profile views">
+
 </div>
 
 ---
 
-###  Featured Projects
--  [**AjiraAI**](https://github.com/damiancodes/AjiraAI) — Intelligent job-matching AI system with microservices  
--  [**Kikao**](https://github.com/damiancodes/kikao) — A multi-platform job aggregator that scrapes job listings from LinkedIn, Glassdoor, Indeed, and other job sites. Built with Django, Selenium, and Docker for production deployment.  
--  [**BPO Management System**](https://github.com/damiancodes/bpo-system) — Shift tracking, employee scoring, manager dashboard.
+<h3 align="center">Featured Projects</h3>
+
+- [**AjiraAI**](https://github.com/damiancodes/AjiraAI) — Intelligent job-matching AI system with microservices  
+- [**Kikao**](https://github.com/damiancodes/kikao) — Multi-platform job aggregator scraping LinkedIn, Glassdoor, Indeed & more. Built with **Django**, **Selenium**, and **Docker**.  
+- [**BPO Management System**](https://github.com/damiancodes/bpo-system) — Shift tracking, employee scoring, and manager dashboard system.
+
+---
+
+<h3 align="center">Let's Connect</h3>
 
 <div align="center">
-
-### Let's Connect
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damian-wabwire-85b929186/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:damianbwire88@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/damiancodes)
 
 </div>
+
 ---
 
 <div align="center">
 
-*Last Updated: October 08, 2025
+*Last updated: October 8, 2025*  
 
 > *"Code is the language of the future — let's build it wisely."*
 

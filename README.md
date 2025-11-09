@@ -57,7 +57,6 @@
 <img src="https://komarev.com/ghpvc/?username=damiancodes&label=Profile+Views&color=6366f1&style=flat-square" alt="Profile views">
 
 </div>
-
 ---
 
 <h3 align="center">Featured Projects</h3>

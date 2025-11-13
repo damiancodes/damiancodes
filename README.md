@@ -65,7 +65,7 @@
 - [**Kikao**](https://github.com/damiancodes/kikao) — Multi-platform job aggregator scraping LinkedIn, Glassdoor, Indeed & more. Built with **Django**, **Selenium**, and **Docker**.  
 - [**BPO Management System**](https://github.com/damiancodes/bpo-system) — Shift tracking, employee scoring, and manager dashboard system.
 
----
+--
 
 <h3 align="center">Let's Connect</h3>
 

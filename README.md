@@ -13,7 +13,6 @@
 - Currently exploring **Dart & Flutter** to expand my mobile dev stack  
 - Passionate about **AI integration**, **data-driven design**, and **clean architecture**  
 ---
-
 <h3 align="center">Tech Stack</h3>
 
 <div align="center">

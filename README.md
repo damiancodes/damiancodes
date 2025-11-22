@@ -6,7 +6,6 @@
 </p>
 
 ---
-
 <h3 align="center">About Me</h3>
 
 - I build scalable web systems using **Python**, **Django**, **React.js**, **FastAPI**, **TypeScript**, and **Next.js**  

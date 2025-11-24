@@ -54,6 +54,7 @@
 </div>
 ---
 
+
 <h3 align="center">Featured Projects</h3>
 
 - [**AjiraAI**](https://github.com/damiancodes/AjiraAI) — Intelligent job-matching AI system with microservices  

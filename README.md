@@ -4,7 +4,6 @@
 <p align="center">
   <b>Full-Stack Developer | AI Trainer | ML Crafter | Data Enthusiast | Based in Nairobi</b>
 </p>
-
 ---
 <h3 align="center">About Me</h3>
 

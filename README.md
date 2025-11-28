@@ -52,7 +52,6 @@
 </a>
 
 <br>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damiancodes&layout=compact&theme=default&langs_count=10&hide_border=true&bg_color=FFFFFF" alt="Top Languages" />
 
 <br>

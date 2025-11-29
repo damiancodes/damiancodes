@@ -13,7 +13,7 @@
 
 - I build scalable web systems using **Python**, **Django**, **React.js**, **FastAPI**, **TypeScript**, and **Next.js**  
 - Currently exploring **Dart & Flutter** to expand my mobile dev stack  
-- Passionate about **AI integration**, **data-driven design**, and **clean architecture**  
+- Passionate about **AI integration**, **data-driven design**, and **clean architecture**
 
 <div align="center"><hr width="50%"></div>
 
@@ -48,15 +48,25 @@
 <div align="center">
 
 <a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=damiancodes&theme=default&hide_border=true&background=FFFFFF" alt="GitHub Streak" />
+  <img 
+    src="https://streak-stats.demolab.com?user=damiancodes&theme=default&hide_border=true&background=FFFFFF" 
+    alt="GitHub Streak"
+  />
 </a>
 
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damiancodes&layout=compact&theme=default&langs_count=10&hide_border=true&bg_color=FFFFFF" alt="Top Languages" />
+<br/>
 
-<br>
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=damiancodes&layout=compact&theme=default&langs_count=10&hide_border=true&bg_color=FFFFFF" 
+  alt="Top Languages" 
+/>
 
-<img src="https://komarev.com/ghpvc/?username=damiancodes&label=Profile+Views&color=6366f1&style=flat-square" alt="Profile views">
+<br/>
+
+<img 
+  src="https://komarev.com/ghpvc/?username=damiancodes&label=Profile+Views&color=6366f1&style=flat-square" 
+  alt="Profile views"
+/>
 
 </div>
 
@@ -65,8 +75,8 @@
 <h3 align="center">Featured Projects</h3>
 
 - [**AjiraAI**](https://github.com/damiancodes/AjiraAI) — Intelligent job-matching AI system with microservices  
-- [**Kikao**](https://github.com/damiancodes/kikao) — Multi-platform job aggregator scraping LinkedIn, Glassdoor, Indeed & more using **Django**, **Selenium**, and **Docker**.  
-- [**BPO Management System**](https://github.com/damiancodes/bpo-system) — Shift tracking, employee scoring, and manager dashboards.  
+- [**Kikao**](https://github.com/damiancodes/kikao) — Multi-platform job aggregator scraping LinkedIn, Glassdoor, Indeed & more using **Django**, **Selenium**, and **Docker**  
+- [**BPO Management System**](https://github.com/damiancodes/bpo-system) — Shift tracking, employee scoring, and manager dashboards  
 
 <div align="center"><hr width="50%"></div>
 
@@ -74,9 +84,17 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damian-wabwire-85b929186/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:damianbwire88@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/damiancodes)
+<a href="https://www.linkedin.com/in/damian-wabwire-85b929186/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:damianbwire88@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/damiancodes">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
 </div>
 

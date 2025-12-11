@@ -47,17 +47,15 @@
 
 <div align="center">
 
-<a href="https://git.io/streak-stats">
-  <img 
-    src="https://streak-stats.demolab.com?user=damiancodes&theme=default&hide_border=true&background=FFFFFF" 
-    alt="GitHub Streak"
-  />
-</a>
+<img 
+  src="https://streak-stats.demolab.com?user=damiancodes&theme=default&hide_border=true" 
+  alt="GitHub Streak"
+/>
 
 <br/>
 
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=damiancodes&layout=compact&theme=default&langs_count=10&hide_border=true&bg_color=FFFFFF" 
+  src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=damiancodes&layout=compact&theme=default&langs_count=10&hide_border=true" 
   alt="Top Languages" 
 />
 
@@ -102,7 +100,7 @@
 
 <div align="center">
 
-*Last updated: October 8, 2025*  
+*Last updated: December 2024*  
 
 > *"Code is the language of the future — let's build it wisely."*
 

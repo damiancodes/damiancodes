@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi Tech Community!  
+## Hi Tech Community!
 ### *Code is the language of the future.*
 
 **Full-Stack Developer | AI Trainer | ML Crafter | Data Enthusiast | Based in Nairobi**
@@ -11,8 +11,8 @@
 
 <h3 align="center">About Me</h3>
 
-- I build scalable web systems using **Python**, **Django**, **React.js**, **FastAPI**, **TypeScript**, and **Next.js**  
-- Currently exploring **Dart & Flutter** to expand my mobile dev stack  
+- I build scalable web systems using **Python**, **Django**, **React.js**, **FastAPI**, **TypeScript**, and **Next.js**
+- Currently exploring **Dart & Flutter** to expand my mobile development stack
 - Passionate about **AI integration**, **data-driven design**, and **clean architecture**
 
 <div align="center"><hr width="50%"></div>
@@ -21,7 +21,8 @@
 
 <div align="center">
 
-#### Core Stack  
+#### Core Stack
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -29,7 +30,8 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=20232A" />
 
-#### Tools & Infra  
+#### Tools & Infra
+
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
@@ -47,24 +49,15 @@
 
 <div align="center">
 
-<img 
-  src="https://streak-stats.demolab.com?user=damiancodes&theme=default&hide_border=true" 
-  alt="GitHub Streak"
-/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=damiancodes&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 
-<br/>
+<br/><br/>
 
-<img 
-  src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=damiancodes&layout=compact&theme=default&langs_count=10&hide_border=true" 
-  alt="Top Languages" 
-/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damiancodes&layout=compact&theme=github-dark&langs_count=8&hide_border=true" alt="Top Languages" />
 
-<br/>
+<br/><br/>
 
-<img 
-  src="https://komarev.com/ghpvc/?username=damiancodes&label=Profile+Views&color=6366f1&style=flat-square" 
-  alt="Profile views"
-/>
+<img src="https://komarev.com/ghpvc/?username=damiancodes&label=Profile+Views&color=6366f1&style=flat-square" alt="Profile Views" />
 
 </div>
 
@@ -72,13 +65,18 @@
 
 <h3 align="center">Featured Projects</h3>
 
-- [**AjiraAI**](https://github.com/damiancodes/AjiraAI) — Intelligent job-matching AI system with microservices  
-- [**Kikao**](https://github.com/damiancodes/kikao) — Multi-platform job aggregator scraping LinkedIn, Glassdoor, Indeed & more using **Django**, **Selenium**, and **Docker**  
-- [**BPO Management System**](https://github.com/damiancodes/bpo-system) — Shift tracking, employee scoring, and manager dashboards  
+- **[AjiraAI](https://github.com/damiancodes/AjiraAI)**  
+  Intelligent job-matching AI system with microservices architecture
+
+- **[Kikao](https://github.com/damiancodes/kikao)**  
+  Multi-platform job aggregator scraping LinkedIn, Glassdoor, Indeed and more using **Django**, **Selenium**, and **Docker**
+
+- **[BPO Management System](https://github.com/damiancodes/bpo-system)**  
+  Shift tracking, employee scoring, and manager dashboards
 
 <div align="center"><hr width="50%"></div>
 
-<h3 align="center">Let's Connect</h3>
+<h3 align="center">Let’s Connect</h3>
 
 <div align="center">
 
@@ -100,8 +98,7 @@
 
 <div align="center">
 
-*Last updated: December 2024*  
-
-> *"Code is the language of the future — let's build it wisely."*
+*Last updated: 2025*  
+> *“Code is the language of the future — let’s build it wisely.”*
 
 </div>

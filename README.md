@@ -49,15 +49,29 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=damiancodes&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+<!-- GitHub Streak Stats -->
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=damiancodes&theme=github-dark-blue&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damiancodes&layout=compact&theme=github-dark&langs_count=8&hide_border=true" alt="Top Languages" />
+<!-- GitHub Stats Card -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=damiancodes&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&include_all_commits=true" alt="GitHub Stats" />
+</a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=damiancodes&label=Profile+Views&color=6366f1&style=flat-square" alt="Profile Views" />
+<!-- Top Languages -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damiancodes&layout=compact&theme=github_dark&langs_count=8&hide_border=true&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+</a>
+
+<br/><br/>
+
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=damiancodes&color=blue&label=Profile+Views&style=flat-square" alt="Profile Views" />
 
 </div>
 
@@ -76,20 +90,24 @@
 
 <div align="center"><hr width="50%"></div>
 
-<h3 align="center">Let’s Connect</h3>
+<h3 align="center">Let's Connect</h3>
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/damian-wabwire-85b929186/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:damianbwire88@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/damiancodes">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/damiancodes">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 
 </div>
@@ -99,6 +117,6 @@
 <div align="center">
 
 *Last updated: 2025*  
-> *“Code is the language of the future — let’s build it wisely.”*
+> *"Code is the language of the future — let's build it wisely."*
 
 </div>

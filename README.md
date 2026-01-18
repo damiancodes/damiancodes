@@ -50,22 +50,22 @@
 <div align="center">
 
 <!-- GitHub Streak Stats -->
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=damiancodes&theme=github-dark-blue&hide_border=true&border_radius=10" alt="GitHub Streak" />
+<a href="https://github.com/damiancodes">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=damiancodes&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </a>
 
 <br/><br/>
 
 <!-- GitHub Stats Card -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=damiancodes&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&include_all_commits=true" alt="GitHub Stats" />
+<a href="https://github.com/damiancodes">
+  <img src="https://github-readme-stats.vercel.app/api?username=damiancodes&show_icons=true&theme=dark&hide_border=true&border_radius=10&include_all_commits=true" alt="GitHub Stats" />
 </a>
 
 <br/><br/>
 
 <!-- Top Languages -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damiancodes&layout=compact&theme=github_dark&langs_count=8&hide_border=true&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+<a href="https://github.com/damiancodes">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damiancodes&layout=compact&theme=dark&langs_count=8&hide_border=true&border_radius=10" alt="Top Languages" />
 </a>
 
 <br/><br/>

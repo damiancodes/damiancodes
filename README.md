@@ -110,6 +110,6 @@
 <div align="center">
 
 *Last updated: 2025*  
-> *"Code is the language of the future — let's build it wisely."*
+> *"Code is the language of the future —  let's build it wisely."*
 
 </div>

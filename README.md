@@ -65,6 +65,10 @@
 <!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=damiancodes&color=blue&label=Profile+Views&style=flat-square" alt="Profile Views" />
 
+
+
+[![DOI](https://zenodo.org/badge/971517382.svg)](https://doi.org/10.5281/zenodo.18813375)
+
 </div>
 
 <div align="center"><hr width="50%"></div>

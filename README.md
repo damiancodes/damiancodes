@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 ## Hi Tech Community!
@@ -43,7 +42,6 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
 
 </div>
-
 <div align="center"><hr width="50%"></div>
 
 <h3 align="center">GitHub Stats</h3>
@@ -57,13 +55,6 @@
 
 <br/><br/>
 
-<!-- GitHub Stats + Rank -->
-<a href="https://github.com/damiancodes">
-  <img src="https://github-readme-stats.vercel.app/api?username=damiancodes&show_icons=true&theme=default&hide_border=true&border_radius=10&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&rank_icon=github" alt="GitHub Stats" />
-</a>
-
-<br/><br/>
-
 <!-- Top Languages -->
 <a href="https://github.com/damiancodes">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damiancodes&layout=compact&theme=default&langs_count=8&hide_border=true&border_radius=10&bg_color=ffffff&title_color=000000&text_color=000000" alt="Top Languages" />
@@ -71,17 +62,10 @@
 
 <br/><br/>
 
-<!-- Profile Details -->
-<a href="https://github.com/damiancodes">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=damiancodes&theme=default" alt="Profile Details" />
-</a>
-
-<br/><br/>
-
 <!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=damiancodes&color=blue&label=Profile+Views&style=flat-square" alt="Profile Views" />
 
-<br/><br/>
+
 
 [![DOI](https://zenodo.org/badge/971517382.svg)](https://doi.org/10.5281/zenodo.18813375)
 
@@ -129,7 +113,6 @@
 <div align="center">
 
 *Last updated: 2025*  
-> *"Code is the language of the future — let's build it wisely."*
+> *"Code is the language of the future —  let's build it wisely."*
 
 </div>
-```

@@ -6,7 +6,6 @@
 **Full-Stack Developer | AI Trainer | ML Crafter | Data Enthusiast | Based in Nairobi**
 
 </div>
-
 <div align="center"><hr width="50%"></div>
 
 <h3 align="center">About Me</h3>
